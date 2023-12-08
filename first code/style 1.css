@@ -7,7 +7,7 @@
     text-align: center;
 }
 .head:hover{
-    background-color: brown;
+    background-color:blueviolet;
 }
 .welcome{
     display: contents;
@@ -18,8 +18,8 @@ ol{
 }
 .learn{
     
-    display: flex;
-    flex-direction: column;
+    display: contents;
+    flex-direction: row;
 }
 .project{
     color: blueviolet;
